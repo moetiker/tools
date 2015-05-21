@@ -12,4 +12,4 @@ unauthorized device use in Zimbra
 
 The following tools are available from their own repositories or websites:
 
-* [Zimbra ZCO Report script (by silpion)](Report the versions of the Zimbra Connector for Outlook currently in use) - Report the versions of the Zimbra Connector for Outlook currently in use
+* [Zimbra ZCO Report script (by silpion)](https://github.com/silpion/zmzcoreport) - Report the versions of the Zimbra Connector for Outlook currently in use
